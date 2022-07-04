@@ -19,13 +19,13 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Olympic Stadium Hernando Siles",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+      "nome": "Estadio Centenario",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg"
     },
     "mandante": {
       "nome": "Bolívia",
-      "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
       "nome": "Brasil",
