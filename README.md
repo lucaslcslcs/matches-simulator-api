@@ -2,7 +2,7 @@
 
 <h2 align="center"> Matches Simulador App </h2>
 
-<h3 align="center"> API REST do Maches Simulador App </h2>
+<h3 align="center"> API REST do Maches Simulador App </h3>
 
 App Android Nativo de Simulação de Partidas. Este repositorio foi organizado em algumas branches que representam as implementações realizadas durante o BootCamp Santander Mobile.
 1. Desenvolvimento Mobile Nativo para Android
